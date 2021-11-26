@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @erdogan98
 - 👀 I’m interested in Data Science and C# .NET Development
 - 🌱 I’m currently studying Computer Science
-- 💞️ I’m looking to collaborate on C# Projects and anything interesting in the area of AI
+- � I’m looking to collaborate on C# Projects and anything interesting in the area of AI
 - 📫 How to reach me ekervanli@outlook.com
 
 <!---
