@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erdogan98
 - 👀 I’m interested in Data Science and Blockchain Technologies
-- 🌱 I’m currently level 6 Computer Science student.
+- 🌱 I’m Computer Science graduate Data Scientist/Software Developer.
 - � I’m looking to collaborate on Software Development projects and/or anything in the area of AI
 - 📫 How to reach me ekervanli@outlook.com
 
