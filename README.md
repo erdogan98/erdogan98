@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @erdogan98
 - 👀 I’m interested in Data Science, Artifical Intelligence and Blockchain Technologies
 - 🌱 I’m Computer Science graduate and MSc Artifical Intelligence from @UKC.
-- 🌱 Cuurently PhD student @CIU
-- � I’m looking to collaborate on Software Engineering projects and/or anything in the area of AI
+- 🌱 Curently PhD student @CIU
 - 📫 How to reach me ekervanli@outlook.com
 
 <!---
