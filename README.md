@@ -7,7 +7,7 @@
 
 <div align="center">
   <!-- Futuristic Banner Image (replace URL with one that fits your vision) -->
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Digital Banner" width="100%"/>
+  <img src="[https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif](https://media.giphy.com/media/ylyUQl358jhxMXjS1i/giphy.gif?cid=790b76119c34hmb7x4zjss8zi999s79zfgex2ly6vbniw03v&ep=v1_gifs_search&rid=giphy.gif&ct=g)" alt="Digital Banner" width="50%"/>
 </div>
 
 <br>
