@@ -107,8 +107,6 @@
 
 ---
 
-## 🏗️ **Architectural Innovations**
-
 <details>
 <summary><b>🚀 Professional Experiences (Click to Expand)</b></summary>
 
