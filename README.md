@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- Dynamic Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?duration=6000&lines=AI+Engineer+%7C+Data+Scientist+%7C+PhD+Student;Digital+Architect+in+Intelligent+Systems" alt="Dynamic Introduction" />
+  <img src="https://readme-typing-svg.herokuapp.com?duration=10000&lines=AI+Engineer+%7C+%7C+PhD+Student;Digital+Architect+in+Intelligent+Systems" alt="Dynamic Introduction" />
 </div>
 
 <div align="center">
