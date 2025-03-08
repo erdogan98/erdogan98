@@ -14,10 +14,17 @@
 
 <div align="center">
   <!-- Social Links -->
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23007AFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kervanli/)
-  [![GitHub](https://img.shields.io/badge/GitHub-%23ffffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/erdogan98)
-  [![Email](https://img.shields.io/badge/Email-%2300E676?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ekervanli@outlook.com)
+  <a href="https://www.linkedin.com/in/kervanli/">
+    <img src="https://img.shields.io/badge/LinkedIn-%23007AFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/erdogan98">
+    <img src="https://img.shields.io/badge/GitHub-%23ffffff?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
+  </a>
+  <a href="mailto:ekervanli@outlook.com">
+    <img src="https://img.shields.io/badge/Email-%2300E676?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </div>
+
 
 ---
 
