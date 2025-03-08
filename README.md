@@ -55,7 +55,7 @@
 
 ---
 
-## 🛠 **Technical Foundry**
+## 🛠 **Technical Frameworks**
 
 <div align="center">
   <!-- Interactive Tech Grid -->
