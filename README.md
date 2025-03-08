@@ -7,7 +7,7 @@
 
 <div align="center">
   <!-- Futuristic Animated Banner -->
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Digital Banner" width="10%"/>
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif](https://giphy.com/gifs/cpu-circuit-board-circuitboard-IcZhFmufozDCij3p22" alt="Digital Banner" width="10%"/>
 </div>
 
 <br>
