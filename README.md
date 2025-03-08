@@ -1,48 +1,45 @@
-# 👾 Welcome to the Neon Realm of Erdogan Kervanlı
+# ⚡ Welcome to the Digital Nexus of Erdogan Kervanlı
 
 <div align="center">
-  <!-- Cyberpunk Dynamic Typing Banner -->
-  <img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=AI+Engineer+%7C+Cyberpunk+Coder;Data+Scientist+in+Neon+Skies;Future+AI+Architect" alt="Dynamic Cyberpunk Intro" />
+  <!-- Dynamic Typing Animation: Your skills and roles flash onto the screen -->
+  <img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=AI+Engineer+%7C+Data+Scientist+%7C+PhD+Student;Digital+Architect+in+Intelligent+Systems" alt="Dynamic Introduction" />
 </div>
 
 <div align="center">
-  <!-- Cyberpunk Themed Banner (Replace with your own cyberpunk-style banner) -->
-  <img src="https://yourdomain.com/cyberpunk-banner.svg" alt="Cyberpunk Banner" width="100%"/>
+  <!-- Futuristic Banner Image (replace URL with one that fits your vision) -->
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Digital Banner" width="100%"/>
 </div>
 
 <br>
 
 <div align="center">
-  <!-- Neon Social Badges -->
-  <a href="https://www.linkedin.com/in/kervanli/">
-    <img src="https://img.shields.io/badge/LinkedIn-%2300e676?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/erdogan98">
-    <img src="https://img.shields.io/badge/GitHub-%23ff4081?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:ekervanli@outlook.com">
-    <img src="https://img.shields.io/badge/Email-%2303a9f4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <!-- Social Links -->
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23007AFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kervanli/)
+  [![GitHub](https://img.shields.io/badge/GitHub-%23ffffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/erdogan98)
+  [![Email](https://img.shields.io/badge/Email-%2300E676?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ekervanli@outlook.com)
 </div>
 
 ---
 
 ## 🤖 About Me
 
-I'm an **AI Engineer** who fuses cutting-edge research with cyberpunk aesthetics to create next-gen solutions in natural language processing and large-scale data analytics. I specialize in building scalable, production-ready models using Python, TensorFlow, PyTorch, and cloud platforms—transforming raw data into neon-lit insights.
+I am an **AI Engineer** dedicated to building scalable, production-ready models that convert raw data into illuminated insights. With extensive experience in natural language processing, large-scale data analysis, and cloud-based deployments, I craft digital solutions that power the next era of intelligent systems.
 
-*Details sourced from my CV [&#8203;:contentReference[oaicite:0]{index=0}]*
+*Information derived from my CV.*
 
 ---
 
 ## 🎓 Education
 
 - **PhD in Artificial Intelligence**  
-  *Cyprus International University* | September 2024 – Present  
+  *Cyprus International University* | Sep 2024 – Present
+
 - **MSc in Artificial Intelligence**  
-  *University of Kent, Canterbury* | September 2022 – September 2023  
+  *University of Kent, Canterbury* | Sep 2022 – Sep 2023  
+  Thesis: “From A3C to HiveMind: Exploring Collaborative Learning in Gridworld Dynamics”
+
 - **BSc in Computer Science**  
-  *Canterbury Christ Church University* | September 2018 – May 2022
+  *Canterbury Christ Church University* | Sep 2018 – May 2022
 
 ---
 
@@ -86,35 +83,38 @@ I'm an **AI Engineer** who fuses cutting-edge research with cyberpunk aesthetics
 ## 💼 Professional Experience
 
 - **AI Engineer | Stamina AI/ExoChat**  
-  *Nov 2024 - Present*  
-  - Engineered a cyber-enhanced document ingestion pipeline with advanced semantic search capabilities.
-  - Integrated ANN indexing in PostgreSQL for neon-fast vector-based retrieval.
+  *Nov 2024 – Present*  
+  - Engineered an advanced document ingestion pipeline and semantic search system by integrating ANN indexing for ultra-fast vector retrieval.
+  - Laid the groundwork for next-level language model integration by architecting scalable data structures.
 
 - **Freelance AI Engineer | Remote**  
-  *May 2024 - Present*  
-  - Delivered bespoke AI solutions using TensorFlow, PyTorch, and cloud platforms—tailored for the digital frontier.
+  *May 2024 – Present*  
+  - Delivered custom AI solutions across diverse sectors, optimizing machine learning models for efficiency and precision.
 
-- **AI Engineer & Data Scientist | ViperSoft Technology LTD**  
+- **AI Engineer & Data Scientist | ViperSoft Technology LTD, Nicosia**  
   *Sep 2023 – Feb 2024*  
-  - Developed an NLP model for emotion classification achieving 92% accuracy.
-  - Analyzed 100,000+ customer reviews to generate actionable, futuristic insights.
+  - Developed a high-accuracy NLP model for emotion classification (92% accuracy) by processing over 100,000 customer reviews.
+  - Streamlined end-to-end ML pipelines, reducing inference time by 15% while generating actionable marketing insights.
 
 ---
 
 ## 🚀 Key Projects
 
-- **Intelligent Document Summarization Tool**  
-  [GitHub Repository](https://github.com/erdogan98/Intelligent-Document-Summarization-and-Analysis-Tool)  
-  - A cybernetic solution for document upload, summarization, and sentiment analysis that boosts processing speed by 20%.
+- **Intelligent Document Summarization & Analysis Tool**  
+  *[GitHub Repository](https://github.com/erdogan98/Intelligent-Document-Summarization-and-Analysis-Tool)*  
+  A real-time application that uploads, summarizes, and extracts key insights from documents—boosting processing speed by 20%.
 
 - **CV Parser with BERT**  
-  - A full-stack ML application leveraging a fine-tuned BERT model for advanced CV extraction and summarization.
+  A full-stack solution utilizing a fine-tuned BERT model to extract and summarize CV content with cutting-edge NLP techniques.
 
 - **Emotion Classification & Review Analysis**  
-  - A comprehensive pipeline to classify 28 distinct emotions from large-scale customer reviews.
+  An end-to-end pipeline classifying 28 emotion categories from extensive customer reviews to empower data-driven strategies.
 
 - **MSc Thesis: From A3C to HiveMind**  
-  - An innovative collaborative reinforcement learning framework that enhances efficiency in multi-agent systems.
+  Pioneered a collaborative reinforcement learning framework that enhances multi-agent efficiency and adaptability.
+
+- **Deep Learning Benchmarks (CNN, RNN)**  
+  Custom implementations achieving state-of-the-art performance on MNIST and UCI Poker Hand datasets.
 
 ---
 
@@ -129,7 +129,7 @@ I'm an **AI Engineer** who fuses cutting-edge research with cyberpunk aesthetics
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-<!-- Cyberpunk blog posts auto-updated via GitHub Actions -->
+<!-- Posts will update automatically via GitHub Actions -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -140,13 +140,13 @@ I'm an **AI Engineer** who fuses cutting-edge research with cyberpunk aesthetics
 
 ---
 
-## 📫 Contact Me
+## 📫 Get in Touch
 
-Feel free to reach out at [ekervanli@outlook.com](mailto:ekervanli@outlook.com)  
+Reach out at [ekervanli@outlook.com](mailto:ekervanli@outlook.com)  
 [LinkedIn](https://www.linkedin.com/in/kervanli/) | [GitHub](https://github.com/erdogan98)
 
 ---
 
 <div align="center">
-  <em>Step into the neon future—code on, and let the cyberpunk spirit guide you!</em>
+  <em>Explore the future of intelligent systems—one line of code at a time.</em>
 </div>
