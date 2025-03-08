@@ -1,13 +1,13 @@
 # ⚡ Welcome to the Digital Nexus of Erdogan Kervanlı
 
 <div align="center">
-  <!-- Dynamic Typing Animation: Your skills and roles flash onto the screen -->
+  <!-- Dynamic Typing Animation -->
   <img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=AI+Engineer+%7C+Data+Scientist+%7C+PhD+Student;Digital+Architect+in+Intelligent+Systems" alt="Dynamic Introduction" />
 </div>
 
 <div align="center">
-  <!-- Futuristic Banner Image (replace URL with one that fits your vision) -->
-  <img src="[https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif](https://media.giphy.com/media/ylyUQl358jhxMXjS1i/giphy.gif?cid=790b76119c34hmb7x4zjss8zi999s79zfgex2ly6vbniw03v&ep=v1_gifs_search&rid=giphy.gif&ct=g)" alt="Digital Banner" width="50%"/>
+  <!-- Futuristic Animated Banner -->
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Digital Banner" width="100%"/>
 </div>
 
 <br>
@@ -23,9 +23,9 @@
 
 ## 🤖 About Me
 
-I am an **AI Engineer** dedicated to building scalable, production-ready models that convert raw data into illuminated insights. With extensive experience in natural language processing, large-scale data analysis, and cloud-based deployments, I craft digital solutions that power the next era of intelligent systems.
+I am an **AI Engineer** dedicated to crafting scalable, production-ready models that transform raw data into illuminated insights. With expertise in natural language processing, large-scale data analytics, and cloud deployments, I build solutions that push the digital frontier.
 
-*Information derived from my CV.*
+*Information sourced from my CV [&#8203;:contentReference[oaicite:0]{index=0}]*
 
 ---
 
@@ -33,11 +33,9 @@ I am an **AI Engineer** dedicated to building scalable, production-ready models 
 
 - **PhD in Artificial Intelligence**  
   *Cyprus International University* | Sep 2024 – Present
-
 - **MSc in Artificial Intelligence**  
   *University of Kent, Canterbury* | Sep 2022 – Sep 2023  
-  Thesis: “From A3C to HiveMind: Exploring Collaborative Learning in Gridworld Dynamics”
-
+  *Thesis: “From A3C to HiveMind: Exploring Collaborative Learning in Gridworld Dynamics”*
 - **BSc in Computer Science**  
   *Canterbury Christ Church University* | Sep 2018 – May 2022
 
@@ -49,29 +47,29 @@ I am an **AI Engineer** dedicated to building scalable, production-ready models 
   <table>
     <tr>
       <td align="center">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" alt="Python"/><br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/><br>
         **Python**
       </td>
       <td align="center">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow"/><br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow"/><br>
         **TensorFlow**
       </td>
       <td align="center">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="40" alt="PyTorch"/><br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" alt="PyTorch"/><br>
         **PyTorch**
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="40" alt="Docker"/><br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" alt="Docker"/><br>
         **Docker**
       </td>
       <td align="center">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/aws/aws-original-wordmark.svg" width="40" alt="AWS"/><br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original-wordmark.svg" width="40" alt="AWS"/><br>
         **AWS**
       </td>
       <td align="center">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" alt="Git"/><br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40" alt="Git"/><br>
         **Git**
       </td>
     </tr>
@@ -84,37 +82,37 @@ I am an **AI Engineer** dedicated to building scalable, production-ready models 
 
 - **AI Engineer | Stamina AI/ExoChat**  
   *Nov 2024 – Present*  
-  - Engineered an advanced document ingestion pipeline and semantic search system by integrating ANN indexing for ultra-fast vector retrieval.
-  - Laid the groundwork for next-level language model integration by architecting scalable data structures.
+  - Developed an advanced document ingestion pipeline with semantic search using ANN indexing.
+  - Architected scalable data structures to enable next-level language model integration.
 
 - **Freelance AI Engineer | Remote**  
   *May 2024 – Present*  
-  - Delivered custom AI solutions across diverse sectors, optimizing machine learning models for efficiency and precision.
+  - Delivered custom AI solutions optimizing machine learning models with TensorFlow and PyTorch.
 
 - **AI Engineer & Data Scientist | ViperSoft Technology LTD, Nicosia**  
   *Sep 2023 – Feb 2024*  
-  - Developed a high-accuracy NLP model for emotion classification (92% accuracy) by processing over 100,000 customer reviews.
-  - Streamlined end-to-end ML pipelines, reducing inference time by 15% while generating actionable marketing insights.
+  - Engineered an NLP model for emotion classification (92% accuracy) by processing over 100,000 customer reviews.
+  - Streamlined end-to-end ML pipelines, reducing inference time by 15%.
 
 ---
 
 ## 🚀 Key Projects
 
 - **Intelligent Document Summarization & Analysis Tool**  
-  *[GitHub Repository](https://github.com/erdogan98/Intelligent-Document-Summarization-and-Analysis-Tool)*  
-  A real-time application that uploads, summarizes, and extracts key insights from documents—boosting processing speed by 20%.
+  [GitHub Repository](https://github.com/erdogan98/Intelligent-Document-Summarization-and-Analysis-Tool)  
+  - A real-time application for document upload, summarization, and insight extraction, boosting processing speed by 20%.
 
 - **CV Parser with BERT**  
-  A full-stack solution utilizing a fine-tuned BERT model to extract and summarize CV content with cutting-edge NLP techniques.
+  - A full-stack solution utilizing a fine-tuned BERT model for advanced CV extraction and summarization.
 
 - **Emotion Classification & Review Analysis**  
-  An end-to-end pipeline classifying 28 emotion categories from extensive customer reviews to empower data-driven strategies.
+  - An end-to-end pipeline that classifies 28 distinct emotions from extensive customer reviews.
 
 - **MSc Thesis: From A3C to HiveMind**  
-  Pioneered a collaborative reinforcement learning framework that enhances multi-agent efficiency and adaptability.
+  - Pioneered a collaborative reinforcement learning framework that enhances multi-agent efficiency.
 
-- **Deep Learning Benchmarks (CNN, RNN)**  
-  Custom implementations achieving state-of-the-art performance on MNIST and UCI Poker Hand datasets.
+- **Deep Learning Benchmarks (CNN & RNN)**  
+  - Custom implementations achieving state-of-the-art performance on MNIST and UCI Poker Hand datasets.
 
 ---
 
@@ -129,7 +127,7 @@ I am an **AI Engineer** dedicated to building scalable, production-ready models 
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-<!-- Posts will update automatically via GitHub Actions -->
+<!-- Posts auto-updated via GitHub Actions -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -148,5 +146,5 @@ Reach out at [ekervanli@outlook.com](mailto:ekervanli@outlook.com)
 ---
 
 <div align="center">
-  <em>Explore the future of intelligent systems—one line of code at a time.</em>
+  <em>Explore the digital frontier—one line of code at a time.</em>
 </div>
