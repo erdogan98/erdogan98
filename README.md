@@ -1,18 +1,27 @@
 # 👋 Hi, I'm Erdogan Kervanlı
 
 <div align="center">
-  <!-- Welcome Animation -->
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="Welcome GIF"/>
-  <br><br>
+  <!-- Dynamic Typing Banner -->
+  <img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=AI+Engineer;Data+Scientist;PhD+Student" alt="Dynamic Intro" />
+</div>
+
+<div align="center">
+  <!-- Custom Theme-Aware Banner (example hosted on your repo) -->
+  <img src="https://yourdomain.com/path/to/theme-aware-banner.svg" alt="Custom Banner" width="100%"/>
+</div>
+
+<br>
+
+<div align="center">
   <!-- Social Badges -->
   <a href="https://www.linkedin.com/in/kervanli/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/erdogan98">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:ekervanli@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 
@@ -20,9 +29,7 @@
 
 ## 👨‍💻 About Me
 
-I am an **AI Engineer** with a proven record of developing innovative AI solutions in natural language processing and large-scale data analysis. My focus is on building scalable, production-ready models using Python, TensorFlow, PyTorch, and cloud platforms. I leverage data-driven insights to optimize business processes and drive impactful change.
-
-*Based on details from my CV [&#8203;:contentReference[oaicite:0]{index=0}]*
+I'm an **AI Engineer** with expertise in NLP, large-scale data analysis, and scalable machine learning. I design and deploy production-ready AI models that optimize business processes and drive data-driven insights.
 
 ---
 
@@ -30,28 +37,47 @@ I am an **AI Engineer** with a proven record of developing innovative AI solutio
 
 - **PhD in Artificial Intelligence**  
   *Cyprus International University* | September 2024 – Present  
-  **GPA:** 4.0  
-  **Research Focus:** Enhancing scalable language models using the HiveMind framework.
-
 - **MSc in Artificial Intelligence**  
   *University of Kent, Canterbury* | September 2022 – September 2023  
-  **Thesis:** “From A3C to HiveMind: Exploring Collaborative Learning in Gridworld Dynamics”  
-  **Award:** Merit
-
 - **BSc in Computer Science**  
-  *Canterbury Christ Church University* | September 2018 – May 2022  
+  *Canterbury Christ Church University* | September 2018 – May 2022
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Programming Languages:** Python, Java, SQL  
-**Machine Learning Frameworks:** TensorFlow, Keras, PyTorch, Scikit-learn  
-**Data Processing:** Pandas, Numpy, Matplotlib, Seaborn  
-**Data Visualization:** Power BI, Matplotlib  
-**Databases:** MySQL, MongoDB, PostgreSQL  
-**DevOps & Deployment:** Git, Docker  
-**Cloud Platforms:** Google Cloud, Azure, AWS
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" alt="Python"/><br>
+        Python
+      </td>
+      <td align="center">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow"/><br>
+        TensorFlow
+      </td>
+      <td align="center">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="40" alt="PyTorch"/><br>
+        PyTorch
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="40" alt="Docker"/><br>
+        Docker
+      </td>
+      <td align="center">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/aws/aws-original-wordmark.svg" width="40" alt="AWS"/><br>
+        AWS
+      </td>
+      <td align="center">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" alt="Git"/><br>
+        Git
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -59,39 +85,29 @@ I am an **AI Engineer** with a proven record of developing innovative AI solutio
 
 - **Freelance AI Engineer | Remote**  
   *May 2024 - Present*  
-  - Delivered client-specific AI solutions across sectors, focusing on model optimization and automation.
-  
-- **AI Engineer & Data Scientist | ViperSoft Technology LTD, Nicosia**  
-  *September 2023 – February 2024*  
-  - Engineered an NLP model for emotion classification achieving 92% accuracy.
-  - Processed over 100,000 customer reviews to extract actionable insights and improve marketing strategies.
+  - Delivered custom AI solutions using TensorFlow, PyTorch, and cloud platforms.
+
+- **AI Engineer & Data Scientist | ViperSoft Technology LTD**  
+  *Sep 2023 – Feb 2024*  
+  - Developed an NLP model for emotion classification (92% accuracy).
 
 ---
 
 ## 🚀 Key Projects
 
-- **Intelligent Document Summarization and Analysis Tool**  
+- **Intelligent Document Summarization Tool**  
   [GitHub Repository](https://github.com/erdogan98/Intelligent-Document-Summarization-and-Analysis-Tool)  
-  *Developed an application for document upload, summarization, key point extraction, entity recognition, and sentiment analysis, increasing processing speed by 20%.*
-
-- **CV Parser**  
-  A full-stack ML application integrating a fine-tuned BERT model to extract and summarize CV content using React and Python.
-
-- **Emotion Classification and Customer Review Analysis**  
-  Built a comprehensive ML pipeline to classify 28 emotion categories from over 100k reviews, reducing inference time by 15%.
-
+- **CV Parser with BERT**  
+- **Emotion Classification & Customer Review Analysis**  
 - **MSc Thesis: From A3C to HiveMind**  
-  Developed a novel collaborative reinforcement learning framework, HiveMind, for improved efficiency in multi-agent environments.
-
-- **Deep Learning Models (CNN for MNIST, RNN for Poker Hand Dataset)**  
-  Achieved state-of-the-art accuracy on benchmark datasets with custom models.
 
 ---
 
 ## 📊 GitHub Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=erdogan98&show_icons=true&theme=radical)](https://github.com/erdogan98)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erdogan98&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erdogan98&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=erdogan98&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ---
@@ -99,7 +115,7 @@ I am an **AI Engineer** with a proven record of developing innovative AI solutio
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-<!-- Your latest blog posts will be dynamically updated here via GitHub Actions -->
+<!-- Blog posts auto-updated via GitHub Actions -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
