@@ -1,13 +1,13 @@
 # ⚡ Welcome to the Digital Nexus of Erdogan Kervanlı
 
 <div align="center">
-  <!-- Dynamic Typing Animation with a 5-second duration -->
+
   <img src="https://readme-typing-svg.herokuapp.com?duration=5000&lines=Digital+Architect+in+Intelligent+Systems;AI+Engineer+%7C+PhD+Student" alt="Dynamic Introduction" />
 </div>
 
 <div align="center">
   <!-- Futuristic Animated Banner -->
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnByZTM2NHppMXpmdmZzeTV5OWtqNmIzd3o0aGszaTlqem12a3pzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IcZhFmufozDCij3p22/giphy.gif" alt="Digital Banner" width="80%" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnByZTM2NHppMXpmdmZzeTV5OWtqNmIzd3o0aGszaTlqem12a3pzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IcZhFmufozDCij3p22/giphy.gif" alt="Digital Banner" width="30%" />
 </div>
 
 
