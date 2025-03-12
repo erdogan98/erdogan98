@@ -38,7 +38,7 @@
 
 ---
 
-## 🧠 *Engineering Adaptive Intelligence Systems*
+## 🧠 *Building Adaptive Intelligence Systems*
 
 <div align="center">
   <!-- Precision-Tuned Skill Matrix -->
