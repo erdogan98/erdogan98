@@ -1,5 +1,4 @@
 # ⚡ **Erdogan Kervanlı**  
-#### *Building Adaptive Intelligence Systems*
 
 <div align="center">
   <!-- Animated Header with Gradient Text -->
