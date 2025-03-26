@@ -109,7 +109,7 @@
 <details>
 <summary><b>🚀 Professional Experiences (Click to Expand)</b></summary>
 
-### **AI Engineer | Stamina AI/ExoChat**  
+### **AI & Software Engineer | Stamina AI/ExoChat**  
 `2024 - Present`  
 - Engineered document pipeline handling 
 - Designed neural search architecture  
